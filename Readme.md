@@ -5,7 +5,7 @@
 <br>
 
 
-### Over Mij  
+### about me 
 
 - 🏫  Currently studying Software Developer at [Nova College](https://www.novacollege.nl/) 
   
