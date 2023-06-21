@@ -11,10 +11,6 @@
 
 - 🏫  Currently studying Software Developer at [Nova College](https://www.novacollege.nl/) 
   
-  
--  Visit my porfolio [website]() for more info
-  
-  
 - 📧 How to reach me: [e-mail](mailto:enkunga417@student.novacollege.nl)
   
 -  Here is my [CV]()
