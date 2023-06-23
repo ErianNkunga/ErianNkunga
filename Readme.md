@@ -13,7 +13,7 @@
   
 - 📧 How to reach me: [e-mail](mailto:enkunga417@student.novacollege.nl)
   
--  Here is my [CV]()
+-  Here is my [CV](https://flowcv.com/resume/bww08p1s15)
 #
 <br>
 
