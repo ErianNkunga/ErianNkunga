@@ -9,11 +9,12 @@
 
 <br>
 
-- 🏫  Momenteel studeert Software Developer op [Nova College](https://www.novacollege.nl/) 
+- 🏫 Momenteel studeert Software Developer op [Nova College](https://www.novacollege.nl/) 
   
 - 📧 Hoe u mij kan bereiken [e-mail](mailto:enkunga417@student.novacollege.nl)
   
-- Mijn [CV](https://flowcv.com/resume/bww08p1s15)
+- 📃 Mijn [CV](https://flowcv.com/resume/bww08p1s15)
+
 #
 <br>
 
