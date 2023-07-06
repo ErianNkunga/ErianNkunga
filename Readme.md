@@ -1,8 +1,6 @@
-<img src= "banner1.png" height = 200/> 
+<img src= "banner1.png" height = 200/>
 
 #
-
-<br>
 
 
 ### About me 
@@ -16,7 +14,6 @@
 - 📃 Mijn [CV](https://flowcv.com/resume/bww08p1s15)!
 
 #
-<br>
 
 ### Langauges and tools
 <br>
