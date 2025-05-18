@@ -1,19 +1,6 @@
 <img src= "banner1.png" height = 200/>
 
-#
 
-
-### About me 
-
-<br>
-
-- 🏫 Momenteel studeert Software Developer op [Nova College](https://www.novacollege.nl/). 
-  
-- 📧 Hoe u mij kan bereiken [e-mail](mailto:enkunga417@student.novacollege.nl).
-  
-- 📃 Mijn [CV](https://flowcv.com/resume/bww08p1s15)!
-
-#
 
 ### Langauges and tools
 <br>
